@@ -3,7 +3,7 @@ WUPHF scans a Youtube page and notifies your Twitter, Instagram, and Discord wit
 
 How to run:
 1. Fill in all of the credentials in Auth.py with credentials for your associated accounts.
-2. Run the program
+2. Run main.py
 
 The Youtube channel ID can be found with:
 right-click -> view source
