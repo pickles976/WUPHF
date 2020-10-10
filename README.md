@@ -5,7 +5,7 @@ How to run:
 1. Fill in all of the credentials in Auth.py with credentials for your associated accounts.
 2. Run main.py
 
-The Youtube channel ID can be found with:
+The Youtube channel ID can be found with:   
 right-click -> view source
 CTRL + F search for "externalID"
 
