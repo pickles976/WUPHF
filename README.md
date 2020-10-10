@@ -6,7 +6,7 @@ How to run:
 2. Run main.py
 
 The Youtube channel ID can be found with:   
-right-click -> view source
+right-click -> view source          
 CTRL + F search for "externalID"
 
 Twitter access requires a developer account.
