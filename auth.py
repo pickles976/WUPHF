@@ -1,5 +1,5 @@
 #Youtube channel ID for RSS
-channel_id = "UCO6VRopFcZ2b4mRG9A--tAQ"
+channel_id = 
 
 #Twitter stuff
 access_token =
@@ -12,5 +12,5 @@ username =
 password =
 
 #Discord stuff
-DISCORD_TOKEN = "NzY0MTg5NjI3MjQ2MDUxMzM4.X4CpDQ.QTwxjY6wNMhHuo1ugB18A59NSrA"
-channel_name = "general"
+DISCORD_TOKEN = 
+channel_name = 
